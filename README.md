@@ -25,7 +25,7 @@ It is designed for simple, local use. Select a text file, enter a password, and 
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/encryption-app.git
+git clone https://github.com/fikrinotes/Encryption-App.git
 ```
 
 3. Move into the project directory:
